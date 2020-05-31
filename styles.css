@@ -1,0 +1,17 @@
+div{
+  height: 325px;
+  width: 450px;
+  float:left;
+  text-align: left;
+  margin-left: inherit;
+}
+.result img{
+  width: 278px;
+  height: 87px;
+}
+.result{
+  color: red;
+}
+body{
+  background-color: #E0F2F7;
+}
